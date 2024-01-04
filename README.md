@@ -2,4 +2,4 @@
 
 ![Reports dashboard](https://i.imgur.com/vBDI5p1.png)
 
-`react`, `create-react-app`, `craco`, `typescript`, `redux`, `sass`, `tailwindcss`
+[React](https://reactjs.org/), [Create React App](https://create-react-app.dev/), [Craco](https://github.com/gsoft-inc/craco), [TypeScript](https://www.typescriptlang.org/), [Redux](https://redux.js.org/), [Sass](https://sass-lang.com/), [Tailwind CSS](https://tailwindcss.com/)
